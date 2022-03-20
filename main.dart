@@ -16,15 +16,15 @@ void main() {
   // var list = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100];
   // List<dynamic> even = [];
   // List<dynamic> odd = [];
-  // var num = 10;
-  // for (var i = 0; i <= 10; i++) {
+  // for (var i = 0; i < list.length; i++) {
   //   if (list[i].isEven) {
-  //     even.add(list.elementAt(i));
+  //     even.add(i);
   //   } else {
-  //     odd.add(list.elementAt(i));
+  //     odd.add(i);
   //   }
   // }
-
+  // print(even);
+  // print(odd);
   // ======== quastin no 3 =========
 
   // sawal hi samujh nhi aa raha to kese hall karo
